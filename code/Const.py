@@ -66,7 +66,7 @@ ENTITY_HEALTH = {
     'Enemy1Shot': 1,
     'Enemy2': 60,
     'Enemy2Shot': 1,
-    'Enemy3': 70,
+    'Enemy3': 80,
     'Enemy3Shot': 1,
 }
 
@@ -97,7 +97,7 @@ ENTITY_DAMAGE = {
     'Enemy2': 1,
     'Enemy2Shot': 15,
     'Enemy3': 1,
-    'Enemy3Shot': 35,
+    'Enemy3Shot': 25,
 }
 
 ENTITY_SCORE = {
@@ -126,7 +126,7 @@ ENTITY_SCORE = {
     'Enemy1Shot': 0,
     'Enemy2': 125,
     'Enemy2Shot': 0,
-    'Enemy3': 300,
+    'Enemy3': 200,
     'Enemy3Shot': 0,
 }
 
